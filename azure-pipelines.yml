@@ -14,14 +14,14 @@ variables:
 
 steps:
 
-- task: DotNetCoreCLI@2
-  inputs:
-    version: '5.0.x'
-    packageType: runtime
-    command: test
-    projects: '**/*.csproj' # changed this line
-    arguments: '--configuration &(buildConfiguration)'
-    modifyOutputPath: true # I added this line
+#- task: DotNetCoreCLI@2
+#  inputs:
+#    version: '5.0.x'
+#    packageType: runtime
+#    command: test
+#    projects: '**/*.csproj' # changed this line
+#    arguments: '--configuration &(buildConfiguration)'
+#    modifyOutputPath: true # I added this line
 
 
 
