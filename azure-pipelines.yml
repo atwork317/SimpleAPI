@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  vmImage: ubuntu-latest
+  vmImage: 'Ubuntu-latest'
 
 variables:
   buildConfiguration: 'Release'
@@ -19,14 +19,6 @@ steps:
     command: test
     projects: '**/*Test/*.csproj'
     arguments: '--configuration &(buildConfiguration)'
-
-
-#- task: BuildQualityChecks@8
-#  inputs:
-#    checkWarnings: true
-#    warningFailOption: 'fixed'
-#    warningThreshold: '0'
-
 
 - script: dotnet build --configuration $(buildConfiguration)
   displayName: 'dotnet build $(buildConfiguration)'
