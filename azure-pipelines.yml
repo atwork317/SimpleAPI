@@ -23,8 +23,8 @@ steps:
     projects: '**/*Test/*.csproj'
     arguments: '--configuration &(buildConfiguration)'
 
-- task: BuildQualityChecks@8
-  inputs:
-    checkWarnings: true
-    warningFailOption: 'fixed'
-    warningThreshold: '0'
+#- task: BuildQualityChecks@8
+#  inputs:
+#    checkWarnings: true
+#    warningFailOption: 'fixed'
+#    warningThreshold: '0'
