@@ -1,0 +1,157 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Seen\\OneDrive\\Azure Devops(OneDrive)\\VSCODE\\SimpleAPISln\\test\\SimpleAPI.Test\\SimpleAPI.Test.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Seen\\OneDrive\\Azure Devops(OneDrive)\\VSCODE\\SimpleAPISln\\src\\SimpleAPI\\SimpleAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Seen\\OneDrive\\Azure Devops(OneDrive)\\VSCODE\\SimpleAPISln\\src\\SimpleAPI\\SimpleAPI.csproj",
+        "projectName": "SimpleAPI",
+        "projectPath": "C:\\Users\\Seen\\OneDrive\\Azure Devops(OneDrive)\\VSCODE\\SimpleAPISln\\src\\SimpleAPI\\SimpleAPI.csproj",
+        "packagesPath": "C:\\Users\\Seen\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Seen\\OneDrive\\Azure Devops(OneDrive)\\VSCODE\\SimpleAPISln\\src\\SimpleAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Seen\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "targetAlias": "netcoreapp2.2",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Seen\\OneDrive\\Azure Devops(OneDrive)\\VSCODE\\SimpleAPISln\\test\\SimpleAPI.Test\\SimpleAPI.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Seen\\OneDrive\\Azure Devops(OneDrive)\\VSCODE\\SimpleAPISln\\test\\SimpleAPI.Test\\SimpleAPI.Test.csproj",
+        "projectName": "SimpleAPI.Test",
+        "projectPath": "C:\\Users\\Seen\\OneDrive\\Azure Devops(OneDrive)\\VSCODE\\SimpleAPISln\\test\\SimpleAPI.Test\\SimpleAPI.Test.csproj",
+        "packagesPath": "C:\\Users\\Seen\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Seen\\OneDrive\\Azure Devops(OneDrive)\\VSCODE\\SimpleAPISln\\test\\SimpleAPI.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Seen\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "targetAlias": "netcoreapp2.2",
+            "projectReferences": {
+              "C:\\Users\\Seen\\OneDrive\\Azure Devops(OneDrive)\\VSCODE\\SimpleAPISln\\src\\SimpleAPI\\SimpleAPI.csproj": {
+                "projectPath": "C:\\Users\\Seen\\OneDrive\\Azure Devops(OneDrive)\\VSCODE\\SimpleAPISln\\src\\SimpleAPI\\SimpleAPI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.9.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

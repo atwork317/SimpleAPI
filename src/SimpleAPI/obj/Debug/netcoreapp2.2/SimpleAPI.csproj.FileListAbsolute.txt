@@ -17,7 +17,6 @@ C:\Users\Seen\OneDrive\Azure Devops(OneDrive)\VSCODE\SimpleAPISln\src\SimpleAPI\
 C:\Users\Seen\OneDrive\Azure Devops(OneDrive)\VSCODE\SimpleAPISln\src\SimpleAPI\bin\Debug\netcoreapp2.2\SimpleAPI.runtimeconfig.dev.json
 C:\Users\Seen\OneDrive\Azure Devops(OneDrive)\VSCODE\SimpleAPISln\src\SimpleAPI\bin\Debug\netcoreapp2.2\SimpleAPI.dll
 C:\Users\Seen\OneDrive\Azure Devops(OneDrive)\VSCODE\SimpleAPISln\src\SimpleAPI\bin\Debug\netcoreapp2.2\SimpleAPI.pdb
-C:\Users\Seen\OneDrive\Azure Devops(OneDrive)\VSCODE\SimpleAPISln\src\SimpleAPI\obj\Debug\netcoreapp2.2\SimpleAPI.csprojAssemblyReference.cache
 C:\Users\Seen\OneDrive\Azure Devops(OneDrive)\VSCODE\SimpleAPISln\src\SimpleAPI\obj\Debug\netcoreapp2.2\SimpleAPI.csproj.CoreCompileInputs.cache
 C:\Users\Seen\OneDrive\Azure Devops(OneDrive)\VSCODE\SimpleAPISln\src\SimpleAPI\obj\Debug\netcoreapp2.2\SimpleAPI.RazorAssemblyInfo.cache
 C:\Users\Seen\OneDrive\Azure Devops(OneDrive)\VSCODE\SimpleAPISln\src\SimpleAPI\obj\Debug\netcoreapp2.2\SimpleAPI.RazorAssemblyInfo.cs
@@ -26,3 +25,8 @@ C:\Users\Seen\OneDrive\Azure Devops(OneDrive)\VSCODE\SimpleAPISln\src\SimpleAPI\
 C:\Users\Seen\OneDrive\Azure Devops(OneDrive)\VSCODE\SimpleAPISln\src\SimpleAPI\obj\Debug\netcoreapp2.2\SimpleAPI.RazorTargetAssemblyInfo.cache
 C:\Users\Seen\OneDrive\Azure Devops(OneDrive)\VSCODE\SimpleAPISln\src\SimpleAPI\obj\Debug\netcoreapp2.2\SimpleAPI.dll
 C:\Users\Seen\OneDrive\Azure Devops(OneDrive)\VSCODE\SimpleAPISln\src\SimpleAPI\obj\Debug\netcoreapp2.2\SimpleAPI.pdb
+C:\Users\Seen\OneDrive\Azure Devops(OneDrive)\VSCODE\SimpleAPISln\src\SimpleAPI\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Seen\OneDrive\Azure Devops(OneDrive)\VSCODE\SimpleAPISln\src\SimpleAPI\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Seen\OneDrive\Azure Devops(OneDrive)\VSCODE\SimpleAPISln\src\SimpleAPI\obj\Debug\netcoreapp2.2\SimpleAPI.csproj.AssemblyReference.cache
+C:\Users\Seen\OneDrive\Azure Devops(OneDrive)\VSCODE\SimpleAPISln\src\SimpleAPI\obj\Debug\netcoreapp2.2\SimpleAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Seen\OneDrive\Azure Devops(OneDrive)\VSCODE\SimpleAPISln\src\SimpleAPI\obj\Debug\netcoreapp2.2\SimpleAPI.genruntimeconfig.cache
