@@ -1,0 +1,31 @@
+G:\My Drive\Azure DevOps\VSCODE\SimpleAPISln\test\SimpleAPI.Test\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+G:\My Drive\Azure DevOps\VSCODE\SimpleAPISln\test\SimpleAPI.Test\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+G:\My Drive\Azure DevOps\VSCODE\SimpleAPISln\test\SimpleAPI.Test\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+G:\My Drive\Azure DevOps\VSCODE\SimpleAPISln\test\SimpleAPI.Test\bin\Debug\netcoreapp2.2\SimpleAPI.Test.deps.json
+G:\My Drive\Azure DevOps\VSCODE\SimpleAPISln\test\SimpleAPI.Test\bin\Debug\netcoreapp2.2\SimpleAPI.Test.runtimeconfig.json
+G:\My Drive\Azure DevOps\VSCODE\SimpleAPISln\test\SimpleAPI.Test\bin\Debug\netcoreapp2.2\SimpleAPI.Test.runtimeconfig.dev.json
+G:\My Drive\Azure DevOps\VSCODE\SimpleAPISln\test\SimpleAPI.Test\bin\Debug\netcoreapp2.2\SimpleAPI.Test.dll
+G:\My Drive\Azure DevOps\VSCODE\SimpleAPISln\test\SimpleAPI.Test\bin\Debug\netcoreapp2.2\SimpleAPI.Test.pdb
+G:\My Drive\Azure DevOps\VSCODE\SimpleAPISln\test\SimpleAPI.Test\obj\Debug\netcoreapp2.2\SimpleAPI.Test.csprojAssemblyReference.cache
+G:\My Drive\Azure DevOps\VSCODE\SimpleAPISln\test\SimpleAPI.Test\obj\Debug\netcoreapp2.2\SimpleAPI.Test.csproj.CoreCompileInputs.cache
+G:\My Drive\Azure DevOps\VSCODE\SimpleAPISln\test\SimpleAPI.Test\obj\Debug\netcoreapp2.2\SimpleAPI.Test.AssemblyInfoInputs.cache
+G:\My Drive\Azure DevOps\VSCODE\SimpleAPISln\test\SimpleAPI.Test\obj\Debug\netcoreapp2.2\SimpleAPI.Test.AssemblyInfo.cs
+G:\My Drive\Azure DevOps\VSCODE\SimpleAPISln\test\SimpleAPI.Test\obj\Debug\netcoreapp2.2\SimpleAPI.Test.dll
+G:\My Drive\Azure DevOps\VSCODE\SimpleAPISln\test\SimpleAPI.Test\obj\Debug\netcoreapp2.2\SimpleAPI.Test.pdb
+C:\Users\Seen\OneDrive\Azure Devops(OneDrive)\VSCODE\SimpleAPISln\test\SimpleAPI.Test\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Seen\OneDrive\Azure Devops(OneDrive)\VSCODE\SimpleAPISln\test\SimpleAPI.Test\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Seen\OneDrive\Azure Devops(OneDrive)\VSCODE\SimpleAPISln\test\SimpleAPI.Test\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Seen\OneDrive\Azure Devops(OneDrive)\VSCODE\SimpleAPISln\test\SimpleAPI.Test\bin\Debug\netcoreapp2.2\SimpleAPI.Test.deps.json
+C:\Users\Seen\OneDrive\Azure Devops(OneDrive)\VSCODE\SimpleAPISln\test\SimpleAPI.Test\bin\Debug\netcoreapp2.2\SimpleAPI.Test.runtimeconfig.json
+C:\Users\Seen\OneDrive\Azure Devops(OneDrive)\VSCODE\SimpleAPISln\test\SimpleAPI.Test\bin\Debug\netcoreapp2.2\SimpleAPI.Test.runtimeconfig.dev.json
+C:\Users\Seen\OneDrive\Azure Devops(OneDrive)\VSCODE\SimpleAPISln\test\SimpleAPI.Test\bin\Debug\netcoreapp2.2\SimpleAPI.Test.dll
+C:\Users\Seen\OneDrive\Azure Devops(OneDrive)\VSCODE\SimpleAPISln\test\SimpleAPI.Test\bin\Debug\netcoreapp2.2\SimpleAPI.Test.pdb
+C:\Users\Seen\OneDrive\Azure Devops(OneDrive)\VSCODE\SimpleAPISln\test\SimpleAPI.Test\bin\Debug\netcoreapp2.2\SimpleAPI.dll
+C:\Users\Seen\OneDrive\Azure Devops(OneDrive)\VSCODE\SimpleAPISln\test\SimpleAPI.Test\bin\Debug\netcoreapp2.2\SimpleAPI.pdb
+C:\Users\Seen\OneDrive\Azure Devops(OneDrive)\VSCODE\SimpleAPISln\test\SimpleAPI.Test\obj\Debug\netcoreapp2.2\SimpleAPI.Test.csprojAssemblyReference.cache
+C:\Users\Seen\OneDrive\Azure Devops(OneDrive)\VSCODE\SimpleAPISln\test\SimpleAPI.Test\obj\Debug\netcoreapp2.2\SimpleAPI.Test.csproj.CoreCompileInputs.cache
+C:\Users\Seen\OneDrive\Azure Devops(OneDrive)\VSCODE\SimpleAPISln\test\SimpleAPI.Test\obj\Debug\netcoreapp2.2\SimpleAPI.Test.AssemblyInfoInputs.cache
+C:\Users\Seen\OneDrive\Azure Devops(OneDrive)\VSCODE\SimpleAPISln\test\SimpleAPI.Test\obj\Debug\netcoreapp2.2\SimpleAPI.Test.AssemblyInfo.cs
+C:\Users\Seen\OneDrive\Azure Devops(OneDrive)\VSCODE\SimpleAPISln\test\SimpleAPI.Test\obj\Debug\netcoreapp2.2\SimpleAPI.Test.csproj.CopyComplete
+C:\Users\Seen\OneDrive\Azure Devops(OneDrive)\VSCODE\SimpleAPISln\test\SimpleAPI.Test\obj\Debug\netcoreapp2.2\SimpleAPI.Test.dll
+C:\Users\Seen\OneDrive\Azure Devops(OneDrive)\VSCODE\SimpleAPISln\test\SimpleAPI.Test\obj\Debug\netcoreapp2.2\SimpleAPI.Test.pdb
