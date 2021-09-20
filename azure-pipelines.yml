@@ -17,11 +17,12 @@ steps:
   displayName: 'dotnet build $(buildConfiguration)'
 
 
-#- task: DotNetCoreCLI@2
-#  inputs:
-#    command: test
-#    projects: '**/*Test/*.csproj'
-#    arguments: '--configuration &(buildConfiguration)'
+- task: DotNetCoreCLI@2
+  inputs:
+    command: test
+    projects: '**/*/*.csproj'
+    arguments: '--configuration &(buildConfiguration)'
+
 
 #- task: BuildQualityChecks@8
 #  inputs:
