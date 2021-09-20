@@ -24,6 +24,14 @@ steps:
     projects: '**/*.csproj' # changed this line
     arguments: '--configuration &(buildConfiguration)'
     modifyOutputPath: true # I added this line too
+
+# BuildQualityChecks@8
+- task: BuildQualityChecks@8
+  inputs:
+    checkWarnings: true
+    warningFailOption: 'fixed'
+    warningThreshold: '0'
+    
     
 
 
