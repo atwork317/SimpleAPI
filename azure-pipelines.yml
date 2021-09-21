@@ -14,7 +14,7 @@ variables:
 
 steps:
 
-- task: DotNetCLI@2
+- task: DotNetCoreCLI@2
   inputs:
     command: test
     projects: '**/*.csproj' # changed this line
@@ -34,7 +34,7 @@ steps:
 - script: dotnet build --configuration $(buildConfiguration)
   displayName: 'dotnet build $(buildConfiguration)'
     
-- task: DotNetCLI@2
+- task: DotNetCoreCLI@2
   displayName: 'dotnet publish --configuration &(buildConfiguration) --output $(Build.ArtifactStagingDirectory)'
   inputs:
     command: publish
