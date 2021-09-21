@@ -16,11 +16,11 @@ steps:
 
 - task: UseDotNet@2
   inputs:
-    version: 5.0.x
-    performMultiLevelLookup: true
-    includePreviewVersions: true # Required for preview versions
-    packageType: runtime
-    command: 'test'
+#    version: 5.0.x
+#    performMultiLevelLookup: true
+#    includePreviewVersions: true # Required for preview versions
+#    packageType: runtime
+    command: test
     projects: '**/*.csproj' # changed this line
     arguments: '--configuration &(buildConfiguration)'
     modifyOutputPath: true # I added this line too
