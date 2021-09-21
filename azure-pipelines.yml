@@ -5,41 +5,37 @@
 
 trigger:
 - master
-
+  
 pool:
   vmImage: 'Ubuntu-latest'
-
+  
 variables:
   buildConfiguration: 'Release'
-
+  
 steps:
-
+  
 - task: UseDotNet@2
   inputs:
     version: '5.0.x'
     includePreviewVersions: true # Required for preview versions
-  
+    
 - task: DotNetCoreCLI@2
   displayName: 'dotnet build'
   inputs:
-    command: 'build'
-    configuration: $(buildConfiguration)
-  
+      command: 'build'
+      configuration: $(buildConfiguration)
+    
 - task: DotNetCoreCLI@2
   displayName: 'dotnet test'
   inputs:
-    command: 'test'
-    projects: '**/*.csproj'
-    arguments: '--configuration $(buildConfiguration)'
+      command: 'test'
+      projects: '**/*Tests/*.csproj'
+      arguments: '--configuration $(buildConfiguration) --collect:"XPlat Code Coverage" -- DataCollectionRunSettings.DataCollectors.DataCollector.Configuration.Format=cobertura'
+      publishTestResults: true
+      
     
-- task: DotNetCoreCLI@2
-  displayName: 'dotnet publish --configuration $(buildConfiguration) --output $(Build.ArtifactStagingDirectory)'
+- task: PublishCodeCoverageResults@1
+  displayName: 'Publish code coverage report'
   inputs:
-      command: publish
-      publishWebProjects: false
-      projects: 'src/SimpleApi/SimpleAPI.csproj'
-      arguments: '--configuration $(buildConfiguration) --output $(Build.ArtifactStagingDirectory)'
-      zipAfterPublish: true
-       
-- task: PublishBuildArtifacts@1
-  displayName: 'publish artifacts'
+      codeCoverageTool: 'Cobertura'
+      summaryFileLocation: '$(Agent.TempDirectory)/**/coverage.cobertura.xml'
