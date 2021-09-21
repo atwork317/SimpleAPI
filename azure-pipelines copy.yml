@@ -20,21 +20,16 @@ steps:
     performMultiLevelLookup: true
     includePreviewVersions: true # Required for preview versions
     packageType: runtime
-    command: 'test'
+    command: test
     projects: '**/*.csproj' # changed this line
     arguments: '--configuration &(buildConfiguration)'
     modifyOutputPath: true # I added this line too
 
-# BuildQualityChecks@8
 - task: BuildQualityChecks@8
   inputs:
     checkWarnings: true
     warningFailOption: 'fixed'
     warningThreshold: '0'
-    
-    
-
-
 
 - script: dotnet build --configuration $(buildConfiguration)
   displayName: 'dotnet build $(buildConfiguration)'
