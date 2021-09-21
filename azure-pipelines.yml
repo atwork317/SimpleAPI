@@ -25,7 +25,6 @@ steps:
     arguments: '--configuration &(buildConfiguration)'
     modifyOutputPath: true # I added this line too
 
-# BuildQualityChecks@8
 - task: BuildQualityChecks@8
   inputs:
     checkWarnings: true
